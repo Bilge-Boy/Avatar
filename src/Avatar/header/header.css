@@ -1,0 +1,6 @@
+.header{
+    transition: 0.4s;
+}
+.header:hover{
+    letter-spacing: 1em;
+}
